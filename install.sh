@@ -10,4 +10,4 @@ cd /home/ubuntu/Mythic/Mythic_CLI/ && sudo  make
 sudo cp /home/ubuntu/Mythic/Mythic_CLI/mythic-cli /home/ubuntu/Mythic
 cd /home/ubuntu/Mythic/ && sudo -E ./mythic-cli install github https://github.com/MythicAgents/Apollo.git
 cd /home/ubuntu/Mythic/ && sudo -E ./mythic-cli install github https://github.com/MythicC2Profiles/http
-cd /home/ubuntu/Mythic/ && sudo -E ./mythic-cli restart
+cd /home/ubuntu/Mythic/ && sudo -E ./mythic-cli start
