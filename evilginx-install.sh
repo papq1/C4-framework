@@ -7,4 +7,4 @@ sudo snap install docker
 sudo apt-get install unzip -y
 git clone https://github.com/kgretzky/evilginx2.git
 cd /home/ubuntu/evilginx2 && sudo make
-cp /home/ubuntu/evilginx2/build/evilginx /home/ubuntu/
+sudo cp /home/ubuntu/evilginx2/build/evilginx /home/ubuntu/
